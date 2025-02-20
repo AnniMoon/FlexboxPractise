@@ -55,7 +55,7 @@ h1{
 .pic:hover{
     transform: scale(1.3);
 }
-.poem{
+.poem, .ueberMich, .projektuebersicht, .kontakt{
     display: flex;
     flex-direction: column;
     justify-content: center;
